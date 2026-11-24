@@ -19,7 +19,7 @@
 I am a **Computer Systems Engineering** student focused on **Backend Development, Software Architecture, and Data/AI applications**. I build practical systems with **Python, Java, and SQL**, compete in national and international hackathons, and enjoy turning complex data into usable software.
 
 - 🚀 **NASA Space Apps Challenge 2026 — Galactic Problem Solver** (UNAQ Querétaro) with [MEIS](https://meis.onrender.com/)
-- 📊 **1st Guanajuato Disability Datathon (2026)** — built an interactive AI resource-allocation simulator with Streamlit, Pandas, K-Means & Random Forest
+- 📊 **1st Guanajuato Disability Datathon (2026)** — built [M.A.P.A. Guanajuato](https://mapa-gto-dataton.streamlit.app/), an interactive AI resource-allocation simulator with Streamlit, Pandas, K-Means & Random Forest
 - 💼 **Former Wikipedia Research Intern** at *The Everest Group* (40+ published encyclopedic articles & prompt-engineering workflows with Google Gemini)
 - 🎯 Seeking **Software Engineering / Backend Internships** or Junior Developer roles
 
@@ -30,7 +30,7 @@ I am a **Computer Systems Engineering** student focused on **Backend Development
 | Project | Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
 | **MEIS – Mars Environmental Intelligence System** | `Python` · `SQLite` · `A*` · `Render` · `NASA/ESA Data` | Tactical A* route planning backend with Martian telemetry (MOLA, HRSC, THEMIS) and EVA/PLSS oxygen & energy estimation. *NASA Space Apps 2026 Galactic Problem Solver.* | [Repo](https://github.com/sierraivan14/MEIS-Mars-Environmental-Intelligence-System) · [Live Demo](https://meis.onrender.com/) |
-| **M.A.P.A. Guanajuato – AI Policy Simulator** | `Python` · `Streamlit` · `Pandas` · `Scikit-learn` · `Folium` | Interactive geospatial simulator for disability inclusion policies combining K-Means segmentation and Random Forest priority prediction. | [Repo](https://github.com/sierraivan14/mapa-guanajuato-dataton) |
+| **M.A.P.A. Guanajuato – AI Policy Simulator** | `Python` · `Streamlit` · `Pandas` · `Scikit-learn` · `Folium` | Interactive geospatial simulator for disability inclusion policies combining K-Means segmentation and Random Forest priority prediction. | [Repo](https://github.com/sierraivan14/mapa-guanajuato-dataton) · [Live Demo](https://mapa-gto-dataton.streamlit.app/) |
 | **Multiplatform Music Player** | `Java` · `MVC` · `JDBC` · `Apache Derby` · `Android Studio` | Desktop Java/Swing player (MVC, `PreparedStatement`, multithreaded AutoPlay) plus collaborative native Android migration with a cassette-inspired UI. | [Android Repo](https://github.com/sierraivan14/MusicPlayerAndroid) |
 | **BotanIQ** | `HTML5` · `CSS3` · `JavaScript` | Responsive front-end web application focused on clean UI/UX and client-side interactivity. | [Repo](https://github.com/sierraivan14/Botaniq) |
 
